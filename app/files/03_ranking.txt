@@ -1,0 +1,10 @@
+Ranking is crucial for a search engine to provide relevant results to users.
+It involves using algorithms to determine the importance and relevance of web pages based on various factors like keywords, content quality, and backlinks.
+
+Command words:
+- Relevant results
+- Algorithms
+- Content quality
+
+End of file.
+

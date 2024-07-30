@@ -1,0 +1,10 @@
+Crawling is the first step in building a search engine.
+It involves collecting data from various websites using web crawlers or spiders.
+These automated programs browse the web and download the content for indexing.
+
+Command words: 
+- Collecting data
+- Web crawlers
+- Download content
+
+End of file.

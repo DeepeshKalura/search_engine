@@ -1,0 +1,11 @@
+Indexing is the process of organizing and storing the data collected by the web crawlers. 
+This data is stored in a way that allows for quick retrieval and searching.
+Indexing involves parsing the data and creating an index based on keywords and other relevant information.
+
+Command words:
+- Organizing data
+- Storing data
+- Creating an index
+
+End of file.
+

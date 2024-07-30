@@ -1,0 +1,9 @@
+Query processing is the step where the search engine interprets the user's query and matches it with the indexed data. It includes parsing the query, identifying the main keywords, and retrieving relevant results from the index.
+
+Command words:
+- Interpreting query
+- Matching data
+- Retrieving results
+
+End of file.
+

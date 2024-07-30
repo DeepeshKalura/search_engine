@@ -1,0 +1,9 @@
+Displaying results is the final step in the search engine process. It involves presenting the retrieved results to the user in a user-friendly manner. This includes ranking the results based on relevance and formatting them for easy readability.
+
+Command words:
+- Presenting results
+- User-friendly
+- Formatting results
+
+End of file.
+
