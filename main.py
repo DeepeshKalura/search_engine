@@ -11,6 +11,7 @@ from typing import List
 
 # indexing loginc  hai
 def indexLogic() -> None:
+    #INFO: We nee paraser here
     #INFO: This function will create a JSON file in /app/files/refine we will get the preocess json which we will use provide logic
     path = os.getcwd() + "/app/files"
     for filename in os.listdir(path):
@@ -46,8 +47,8 @@ def rankLogic(query:str) -> List:
         sort_temp = sorted(temp.items(), key=lambda item: item[1], reverse=True) 
 
     return sort_temp
-
-print(rankLogic("the index"))
+a = input("Enter your query")
+print(rankLogic(a))
     
 
 # user frontend
