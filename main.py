@@ -47,7 +47,7 @@ def rankLogic(query:str) -> List:
         sort_temp = sorted(temp.items(), key=lambda item: item[1], reverse=True) 
 
     return sort_temp
-a = input("Enter your query")
+a = input("Enter your query:    ")
 print(rankLogic(a))
     
 
